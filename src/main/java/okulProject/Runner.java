@@ -7,5 +7,6 @@ public class Runner {
         Ogrenci.feykOgrenciEkle();
         Depo.anaMenu();
 
+        //Başlangıc.
     }
 }
